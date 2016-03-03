@@ -11,6 +11,7 @@ body{
 }
 p{
     color: lime;
+    font-size: medium;
 }
 ul{
     color: orangered;
