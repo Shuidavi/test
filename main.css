@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: yellow;
 }
 body{
     text-align: left;
@@ -7,4 +8,7 @@ body{
 body{
     margin-top: 20px;
     margin-left: 20px;
+}
+p{
+    color: deepskyblue;
 }
